@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution 1 Work 12 Kuznetsov IS-21-3", "Solution 1 Work 12 Kuznetsov IS-21-3\Solution 1 Work 12 Kuznetsov IS-21-3.csproj", "{9F4FC9DD-0031-4F1A-9B78-AA82B934D003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4FC9DD-0031-4F1A-9B78-AA82B934D003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4FC9DD-0031-4F1A-9B78-AA82B934D003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4FC9DD-0031-4F1A-9B78-AA82B934D003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4FC9DD-0031-4F1A-9B78-AA82B934D003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {466975B7-8FDF-44AE-BF7A-1E53A5671FE4}
+	EndGlobalSection
+EndGlobal
